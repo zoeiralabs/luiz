@@ -23,7 +23,8 @@ body {
     background-color: #000;
 	background-repeat: no-repeat;
 	background-position: top center;
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
+	font-family: "Times New Roman", Georgia, Serif;
 	color: #fff;
 	font-size: 62.5%;
 }
@@ -41,7 +42,7 @@ body {
 }
 .la-frase{
 	font-size: 7.0em;
-	font-style: italic;
+	/*font-style: italic;*/
 	line-height: 70px;
 	padding: .5em;
 }
